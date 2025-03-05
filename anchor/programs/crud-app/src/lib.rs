@@ -1,5 +1,3 @@
-#![allow(clippy::result_large_err)]
-
 use anchor_lang::prelude::*;
 
 declare_id!("3qvvESvw2WA9bkhgrN8WosoP9QQEvS9PUV3Sy4yeDtHo");

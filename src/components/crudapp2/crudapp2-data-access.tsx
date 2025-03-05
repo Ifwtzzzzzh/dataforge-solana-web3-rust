@@ -60,6 +60,7 @@ export function useCrudapp2Program() {
     accounts,
     getProgramAccount,
     createEntry,
+    programId,
   };
 }
 
